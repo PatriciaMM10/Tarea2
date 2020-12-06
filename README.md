@@ -26,9 +26,9 @@ Esto es práctica, práctica y más práctica.
 
 Temas abordados:
 Estructuras de Control de cada tipo.
-Una función 
-Un array 
-Uso de alguna función de cadenas 
+Una función. 
+Un array. 
+Uso de alguna función de cadenas. 
 
 
 !Gracias por su atención!.
