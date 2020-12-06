@@ -1,0 +1,78 @@
+* {
+    margin: Opx;
+    padding: Opx;
+}
+hl {
+font: bold 20px verdana, sans-serif;
+}
+h2 {
+font: bold 14px verdana, sans-serif; 
+}
+header, section, footer, aside, nav, article, figure, figcaption, hgroup {
+    display: block; 
+}
+body {
+    text-align: center;
+}
+#envoltura {
+    width: 9601px;
+    margin: 15px auto;
+    text-align: left; 
+}
+#cabecera {
+    background-color: hsl(54, 81%, 46%);
+        border: lpx solid #392999;
+    padding: 20px; 
+}
+#menu {
+background: #beb312;
+padding: 5px 15px; 
+}
+#menu li {
+    display: inline-block ;
+    list-style: none;
+    padding: 5px;
+    font: bold 14px verdana, sans-serif; 
+}
+#seccion {
+    float: left;
+    width: 660px;
+    margin: 20px;
+    }
+
+#lateral {
+    float: left;
+    width: 220px;
+    margin: 20px Opx;
+}
+#pie {
+    clear: both;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid #b1a71c;
+}
+article {
+background: #aaac2f;
+border: lpx solid #a0982b;
+padding: 20px;
+margin-bottom: l5px;
+}
+article footer {
+    text-align: right;
+    }
+time {
+    color : #999999;
+}
+figcaption {
+    font: italic 14px verdana, sans-serif;
+}
+div {
+    width: 1OOpx;
+    margin: 20px;
+    padding: lOpx;
+    border: l px solid #c7b510;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
