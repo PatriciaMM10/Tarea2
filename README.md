@@ -20,7 +20,7 @@ objetivos lo voy logrando por ejemplo esto de manejar Github lo desconocía.
 Finalmente tengo idea clara de las estructuras de control, la que más me acomoda es SI y el FOR, la que menos el Do While y Arreglos. Me ha gustado usar función de cadenas, son 
 de utilidad para detalles de presentación/usabilidad.
 Esto es práctica, práctica y más práctica.
-Parainiciar da click en: index.php 
+Para iniciar da click en: index.php 
 
 
 Temas abordados:
