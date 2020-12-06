@@ -12,6 +12,7 @@ Primero se instaló el XAMPP Control Panel V.3.2.4 como alojamiento local y al e
 El sitio web se creó poco a poco, a través de revisar sitios web externos sobre el tema pero sobre todo leer las lecturas de la plataforma de la UNIR, específicamente
 se tomó la guía paso a paso de los temas para crear el html con CSS, y para desarrollar cada una de las opciones como las estructuras de control, función, arreglo y función 
 de cadenas se tomó al 100% la explicación del profesor (grabaciones), el cual nos fue explicado paso a paso y se añadieron ciertos elementos mínimos de sitios web externos.
+Para iniciar da click en: index.php 
 
 Conclusiones: 
 El iniciar estos estudios de maestría, me llevará sin duda a un camino por nuevos conocimientos, que si bien es cierto tenía más de 20 años que no programaba, desde que fui
@@ -21,7 +22,6 @@ objetivos lo voy logrando por ejemplo esto de manejar Github lo desconocía al i
 Finalmente tengo idea clara de las estructuras de control, la que más me acomoda es SI y el FOR, la que menos el Do While y Arreglos. Me ha gustado usar función de cadenas, son 
 de utilidad para detalles de presentación/usabilidad.
 Esto es práctica, práctica y más práctica.
-Para iniciar da click en: index.php 
 
 
 Temas abordados:
