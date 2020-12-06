@@ -12,9 +12,9 @@ de cadenas se tomó al 100% la explicación del profesor (grabaciones), el cual 
 
 Conclusiones
 
-El inciar estos estudiaos de maestría, me llevará sin duda a un camino por nuevos conocimientos, que si bien es cierto tenía maás de 20 años que no programaba, desde que fui
-estudiante de licenciatura, las tecnologías han cambiado, no es sencillo para mi pero lo que estoy entregando me da la pauta y herramintas nuevas y actuales que se demandan.
-También agrego, que estoy contenta, porque me doy cuenta de lo que logrado y aunque apenas van pocos días de estudio en la maestría, ya he aprendido y eso es uno de mis 
+El iniciar estos estudios de maestría, me llevará sin duda a un camino por nuevos conocimientos, que si bien es cierto tenía más de 20 años que no programaba, desde que fui
+estudiante de licenciatura, las tecnologías han cambiado, no es sencillo para mi pero lo que estoy entregando me da la pauta y herramientas nuevas y actuales que se demandan.
+También agrego, que estoy contenta, porque me doy cuenta de lo que logrado y aunque apenas van pocos días de estudio ya he aprendido y eso es uno de mis 
 objetivos lo voy logrando por ejemplo esto de manejar Github lo desconocía.
 Finalmente tengo idea clara de las estructuras de control, la que más me acomoda es SI y el FOR, la que menos el Do While y Arreglos. Me ha gustado usar función de cadenas, son 
 de utilidad para detalles de presentación/usabilidad.
