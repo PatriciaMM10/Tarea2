@@ -15,7 +15,7 @@
             <nav id="menu">
                Estructuras de Control
               <ul>
-               <a href="Base_Si.php">      IF</a>  
+               <a href="Base_SI.php">      IF</a>  
               <br />
               <a href="Base_Si_Else.php">        IF ELSE</a>
               <br />

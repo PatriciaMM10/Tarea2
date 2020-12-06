@@ -20,12 +20,12 @@ body {
     text-align: left; 
 }
 #cabecera {
-    background-color: hsl(54, 81%, 46%);
-        border: lpx solid #392999;
+    background-color: hsl(51, 4%, 37%);
+        border: lpx solid #3a393f;
     padding: 20px; 
 }
 #menu {
-background: #beb312;
+background: #d1cb78;
 padding: 5px 15px; 
 }
 #menu li {
@@ -49,10 +49,10 @@ padding: 5px 15px;
     clear: both;
     text-align: center;
     padding: 20px;
-    border-top: 2px solid #b1a71c;
+    border-top: 2px solid #75756b;
 }
 article {
-background: #aaac2f;
+background: #d1cb78;
 border: lpx solid #a0982b;
 padding: 20px;
 margin-bottom: l5px;
@@ -61,7 +61,7 @@ article footer {
     text-align: right;
     }
 time {
-    color : #999999;
+    color : #1a1919;
 }
 figcaption {
     font: italic 14px verdana, sans-serif;
@@ -70,7 +70,7 @@ div {
     width: 1OOpx;
     margin: 20px;
     padding: lOpx;
-    border: l px solid #c7b510;
+    border: l px solid #e9e08e;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;

@@ -1,8 +1,7 @@
 <?php 
-
+  echo "<h1> Uso de la Estructura de Control SI en PHP y HTML </h1> <br>"; 
   $balance = $_POST['bank_balance'];  
- 
-  echo "<h1> Uso de la Estructura de Control SI en PHP y HTML </h1><br>"; 
+  
   if ($balance < 100)  
   {    
     $money  = 1000;    
